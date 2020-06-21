@@ -126,15 +126,31 @@
 //  usersSkills(usuarios)
 
 //create a function that create square in DOM element every onclick button
-// function createSquare() {
-//    var square = document.createElement('div')
+//  function createSquare() {
+//     var square = document.createElement('div')
 
-//    square.style.width = 100;
-//    square.style.height = 100;
-//    square.style.backgroundColor = '#f00';
-//    square.style.margin = 10;
-//    //adiciona a class .box na div criada
-//    square.classList.add('box');
+//     square.style.width = 100;
+//     square.style.height = 100;
+//     square.style.backgroundColor = '#f00';
+//     square.style.margin = 10;
+    
+//     //adiciona a class .box na div criada
+//     square.classList.add('box');
+   
+//     // change color of square every mouseover
+//    square.onmouseover = () => {
+//       square.style.backgroundColor = getRandomColor();
+//    }
+//     document.body.appendChild(square);
+//  };
 
-//    document.body.appendChild(square);
-// }
+// // use this function to change the color of square created above everytime mouseover
+//  function getRandomColor() {
+//     var letters = '0123456789ABCDEF';
+//     var color = '#';
+//     for (var i = 0; i < 6; i++) {
+//        color += letters[Math.floor(Math.random() * 16)];
+//     }
+//     return color;
+//  }
+
