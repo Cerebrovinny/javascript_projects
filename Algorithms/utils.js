@@ -124,3 +124,17 @@
 //  };
 
 //  usersSkills(usuarios)
+
+//create a function that create square in DOM element every onclick button
+// function createSquare() {
+//    var square = document.createElement('div')
+
+//    square.style.width = 100;
+//    square.style.height = 100;
+//    square.style.backgroundColor = '#f00';
+//    square.style.margin = 10;
+//    //adiciona a class .box na div criada
+//    square.classList.add('box');
+
+//    document.body.appendChild(square);
+// }
