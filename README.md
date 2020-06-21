@@ -1,6 +1,6 @@
 ## :ledger: Javascript Projects Collection by Vinicius Cardoso
 
-![Javascript Vinicius Cardoso](./jsjsjs.png)
+![Javascript Vinicius Cardoso](./js-logo).png)
 A collection of some my projects building with focus on JavaScript the pure language 👍
 
 These applications are:
