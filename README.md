@@ -18,13 +18,14 @@ Each project has the following **features**:
 3. A list of bonus features that not only improve the base project, but also your skills at the same time (these are optional and should be attempted only after you have completed the required user stories)
 4. All the resources and links to help you find what you need to complete the project
 
-Here you can [see main website with all the projects in live](https://cardososoftwareengineer.netlify.app/).
 
 ## Projects
 
 Projects are divided into three tiers based on the knowledge and experience
 required to complete them.
-                                                                                                                                               |
+                                                                                                                                               
 | :--: | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  1   | Guess The Number play game. 
-|  2   | Form Validation.
+
+|  1   | [Guess The Number play game](https://codepen.io/cerebrovinny/pen/poyvXmZ) 
+
+|  2   | [Form Validation](https://codepen.io/cerebrovinny/pen/xxVbovK)
