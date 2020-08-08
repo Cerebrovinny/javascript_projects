@@ -25,5 +25,6 @@ Here you can [see main website with all the projects in live](https://cardososof
 Projects are divided into three tiers based on the knowledge and experience
 required to complete them.
                                                                                                                                                |
-| :--: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :--: | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |  1   | Guess The Number play game. 
+|  2   | Form Validation.
