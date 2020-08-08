@@ -24,8 +24,8 @@ Each project has the following **features**:
 Projects are divided into three tiers based on the knowledge and experience
 required to complete them.
                                                                                                                                                
-| :--: | ----------------------------------------------------------------------------------------------------------------------------------- |
+| :--: | -----------------------------------------------------------------------------------------------------------------------------------|
 
-|  1   | [Guess The Number play game](https://codepen.io/cerebrovinny/pen/poyvXmZ) 
+|  1   | [Guess The Number play game](https://codepen.io/cerebrovinny/pen/poyvXmZ){:target="_blank"} 
 
-|  2   | [Form Validation](https://codepen.io/cerebrovinny/pen/xxVbovK)
+|  2   | [Form Validation](https://codepen.io/cerebrovinny/pen/xxVbovK){:target="_blank"}
