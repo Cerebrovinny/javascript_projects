@@ -71,7 +71,7 @@ h2 {
 
 .form-control small {
     color: var(--error-color);
-    position: absolute;
+    position: relative;
     bottom: 0;
     left: 0;
     visibility: hidden;
@@ -92,4 +92,9 @@ h2 {
     padding: 10px;
     margin-top: 20px;
     width: 100%;
+}
+
+.form button:hover {
+    background-color: #2E78A9;
+    transition: 1s;
 }
