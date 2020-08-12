@@ -29,3 +29,5 @@ required to complete them.
 |  1   | [Guess The Number play game](https://codepen.io/cerebrovinny/pen/poyvXmZ)
 
 |  2   | [Form Validation](https://codepen.io/cerebrovinny/pen/xxVbovK)
+
+|  3   | [Movie Seat Booking](https://codepen.io/cerebrovinny/pen/LYNGPEZ)
